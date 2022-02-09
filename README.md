@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @shortPanda
+- 👋 Hi, I’m @sezercik
 - 👀 I’m interested in machine learning, web and mobile programming. I love web novels too.
-- 🌱 I’m currently learning C# and Flutter
+- 🌱 I’m currently learning Web Development(HTML-CSS and JS) and C 
