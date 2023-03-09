@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @sezercik
-- 👀 I’m interested in machine learning, web and mobile programming. I love web novels too.
-- 🌱 I’m currently learning Web Development(HTML-CSS and JS) and C 
+Hiiiiiii!
